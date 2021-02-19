@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613624302 source:f:\project\shujuyunsuan\main.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+	<iomanip>
+
